@@ -45,7 +45,8 @@ The trained model was evaluated on test images to verify its performance.
 The trained model was used to detect football players in a video. Here is an example of the detection output:
 
 *Final Detection Video:*
-![Detection Video](https://github.com/ChristianthomasBADOLO/yolo-v8-football-player-detection/assets/167626485/5fd2d486-8e75-4c4e-a2cd-9c53c7aeedbf)
+
+https://github.com/ChristianthomasBADOLO/yolo-v8-football-player-detection/assets/167626485/5fd2d486-8e75-4c4e-a2cd-9c53c7aeedbf
 
 ## References
 
