@@ -32,10 +32,13 @@ The YOLOv8 model was trained on Google Colab. Google Colab provides a cloud-base
 The trained model was evaluated on test images to verify its performance.
 
 *Training curves:*
-![Training curves](path_to_example_1)
+![results](https://github.com/ChristianthomasBADOLO/yolo-v8-football-player-detection/assets/167626485/ad471afd-b05c-4e8b-841a-740c231704b1)
+
+*Confusion matrix*
+![confusion_matrix](https://github.com/ChristianthomasBADOLO/yolo-v8-football-player-detection/assets/167626485/24365e33-0612-4355-a8ea-c08fc32a0440)
 
 *Example:*
-![Detection Example](path_to_example_2)
+![results_box](https://github.com/ChristianthomasBADOLO/yolo-v8-football-player-detection/assets/167626485/83ed2a0e-d571-43c1-bcef-d1bacbc9b86d)
 
 ### Final Detection in a Video
 
