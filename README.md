@@ -53,3 +53,4 @@ https://github.com/ChristianthomasBADOLO/yolo-v8-football-player-detection/asset
 - [YOLOv8 Documentation](https://github.com/ultralytics/ultralytics)
 - [Blog Post on Training YOLOv8](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset)
 - [YouTube Tutorial](https://youtu.be/wuZtUMEiKWY)
+- [Dataset and model training results](https://drive.google.com/drive/folders/1VE0gbmlfkf7ccWF63AnEGJr3qM0cBJyc?usp=sharing)
